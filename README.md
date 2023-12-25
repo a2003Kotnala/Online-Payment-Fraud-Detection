@@ -10,7 +10,10 @@ Basically i used:
 -> I haven't done downsampling so you guys can go for it
 
 Data :
-1.) Data : https://drive.google.com/file/d/1EtzqOJItP8XsMgvkMNeyYzQ3Zy-3UZyx/view?usp=sharing, 
-2.) Dummy Data : https://drive.google.com/file/d/1c03ifOcSw1uUtsBnQPBQJmhseBNortc7/view?usp=sharing
+
+1.) Dummy Data : https://drive.google.com/file/d/1EtzqOJItP8XsMgvkMNeyYzQ3Zy-3UZyx/view?usp=sharing, 
+
+2.) Data : https://drive.google.com/file/d/1c03ifOcSw1uUtsBnQPBQJmhseBNortc7/view?usp=sharing
+
 
 Thank You Viewers
