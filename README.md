@@ -1,5 +1,8 @@
 # Online-Payment-Fraud-Detection
-This is my Data Science Project which i completed during my minor project. This project consists of: -> Python for transformation or cleaning of data -> Python libraries like matplotlib or seaborn for visualization of data -> Machine Learning for calculating the accuracy of the data
+This is my Data Science Project which i completed during my minor project. This project consists of: 
+-> Python for transformation or cleaning of data 
+-> Python libraries like matplotlib or seaborn for visualization of data 
+-> Machine Learning for calculating the accuracy of the data
 
 Basically i used:
 -> My data was related to categorical values so it was a classification supervised problem.
